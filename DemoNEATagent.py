@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = "Sergey Karakovskiy, sergey at idsia fullstop ch"
+__author__ = "Sergey Karakovskiy, sergey at idsia fullstop ch and modified by Jan Fabian Schmid"
 __date__ = "$${date} ${time}$"
 
 import sys
